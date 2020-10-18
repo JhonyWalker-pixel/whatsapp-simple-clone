@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-A clone of the Whatsapp Web interface with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat. Come on see the [final result](https://dribbble.com/)
+A clone of the Whatsapp Web interface with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat. Come on see the [final result](https://jhonywalker-pixel.github.io/whatsapp-simple-clone/)
 
 ## :computer: Languages used
 
